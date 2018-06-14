@@ -3,9 +3,13 @@
 
 Built for a Udacity class project using resources provided by Udacity. The purpose of the project was to learn the basics of object-oriented JS and the use of the HTML canvas.
 
+---
+
 To INSTALL and RUN on your computer: Use git to clone this repository: https://github.com/Mossvtc/Arcade-game
 
 Then open the index.html file and the game will start
+
+*DEMO version:*  https://mossvtc.github.io/Arcade-game/ 
 
 ---
 
@@ -23,4 +27,3 @@ This game keeps track of your score for the current game and also your high scor
 
 Your player image is chosen at random from the five images at the start of the game. You may change your image at any time by clicking another image.
 
-DEMO version:  https://mossvtc.github.io/Arcade-game/ 
