@@ -11,4 +11,4 @@ When you clear off all the treasures, more will appear!
 
 Your player image is chosen at random from the five images at the start of the game. You may change your image at any time by clicking another image.
 
-DEMO: https://mossvtc.github.io/Arcade-game/
+DEMO version:  https://mossvtc.github.io/Arcade-game/ 
