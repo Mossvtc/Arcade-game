@@ -1,4 +1,5 @@
-Arcade Game
+#Arcade Game
+===
 
 Built for a Udacity class project using resources provided by Udacity. The purpose of the project was to learn the basics of object-oriented JS and the use of the HTML canvas.
 
