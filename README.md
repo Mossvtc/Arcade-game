@@ -16,7 +16,7 @@ Then open the index.html file in your browser and the game will start
 
 ---
 
-**HOW TO PLAY:**
+**How to play:**
 ===
 
 ```
