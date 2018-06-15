@@ -17,6 +17,8 @@ Then open the index.html file in your browser and the game will start
 ---
 
 **HOW TO PLAY:**
+===
+
 ```
 * Use the arrow keys to move your player up across the grass and the stones to the water without getting hit by a bug.
 * You get THREE LIVES to start with.
