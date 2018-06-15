@@ -5,7 +5,7 @@ Built for a Udacity class project using resources provided by Udacity. The purpo
 
 ---
 
-**Instructions to load the game locally**
+#**Instructions to load the game locally**
 
 To INSTALL and RUN on your computer: Use git to clone this repository: https://github.com/Mossvtc/Arcade-game
 
